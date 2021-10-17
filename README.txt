@@ -20,4 +20,38 @@ It is also important to note that PCA is an exploratory statistical tool and doe
 The data are from the US Census Bureau and describe the changes in the population of 51 states between 2000 and 2001. The initial dataset has been transformed to rates per 1000 inhabitants, with the data for 2001 serving as the focus for the analysis. This dataset is also used in our
 
 
-src : https://help.xlstat.com/s/article/principal-component-analysis-pca-in-excel?language=en_US
+resources :
+
+PCA XSLSTAT EN : 
+https://bit.ly/3FSBN7X
+PCA XSLSTAT FR : 
+https://bit.ly/3BQHr8h
+Github demo :
+https://bit.ly/3FVB0TO
+sklearn : 
+https://bit.ly/3n0YTAE
+datascienceplus : 
+https://bit.ly/3lPhksQ
+askpython : 
+https://bit.ly/3n0WENU
+AFC : 
+https://bit.ly/3n8nBPQ
+Base de données UDSA : 
+https://bit.ly/3BHcYtb
+PCA StatQuest : 
+https://bit.ly/3lMKPLO
+https://bit.ly/3lNn0U0
+https://bit.ly/3jaAA2h
+PCA Luis Serrano : 
+https://bit.ly/3b1eydT
+PCA slideserve : 
+https://bit.ly/3vsY7Ao
+PCA slideplayer : 
+https://bit.ly/3vnl4Fa
+https://bit.ly/3jbd1Gh
+https://bit.ly/3DGoeGS
+https://bit.ly/3DNes5M
+PCA slideshare : 
+https://bit.ly/3pc4wig
+PCA powershow : 
+https://bit.ly/3lPTME5
