@@ -1,7 +1,7 @@
 authors :
 
-Firass Mohammed : <a href="https://github.com/mohammedFirass">Github</a>
-Hamza Dabaghi : me
+Firass Mohammed
+Hamza Dabaghi
 Lhore Yasmine
 
 
